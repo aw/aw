@@ -4,14 +4,6 @@
 
 ![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aw&theme=monokai)
 
-![repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aw&theme=monokai)
-
-![language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aw&theme=monokai)
-
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aw&theme=monokai)
-
-![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aw&theme=monokai&utcOffset=8)
-
 <!--
 **aw/aw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
